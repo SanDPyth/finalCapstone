@@ -1,15 +1,15 @@
 ## Shoe Inventory - OOP Capstone
 ---
 
-## Table of Contents
+### Table of Contents
 
-   1.[Description](#desc)\
-   2.[How To Install](#inst)\
-   3.[How To Use](#use)
+   1. [Description](#desc)\
+   2. [How To Install](#inst)\
+   3. [How To Use](#use)
 
 ---
 
-## 1.Description. <a name="desc"></a>
+### 1. Description. <a name="desc"></a>
 
 Built during HyperionDev Software Engineering Bootcamp.
 This script will read "inventory.txt" and based on your choice
@@ -17,7 +17,7 @@ will show tables, return lowest stock ... see [How to Use](#use) for more
 
 ---
 
-## 2.How to install. <a name="inst"></a>
+### 2. How to install. <a name="inst"></a>
 
 Click on "<> Code" button in this repository.\
 Click "Download zip"
@@ -26,7 +26,7 @@ And you are done!
 
 ---
 
-## 3. How to Use. <a name="use"></a>
+### 3. How to Use. <a name="use"></a>
 
 Run "inventory.py". You should see the following: 
 
@@ -65,7 +65,7 @@ MENU:
   0.[Exit.](#zero)
 
 
-## 1. Update Shoes from 'inventory.txt'.<a name="one"></a>
+### 1. Update Shoes from 'inventory.txt'.<a name="one"></a>
 This menu option will update any changes made to "inventory.txt".\
 This function is run o start-up.\ 
 After any changes made to "inventory.txt" this must be run.
@@ -76,7 +76,7 @@ Output:
 ```
 
 
-## 2. View Shoes in database.<a name="two"></a>
+### 2. View Shoes in database.<a name="two"></a>
 This menu option will show list of all shoes in a table.
 
 Output:
@@ -92,7 +92,7 @@ _______________________________________________________________
 ```
 
 
-## 3. Show 'Low Stock' shoe.<a name="three"></a>
+### 3. Show 'Low Stock' shoe.<a name="three"></a>
 This menu option will show shoe with lowest stock.
 
 Output:
@@ -105,7 +105,7 @@ _______________________________________________________________
 ```
 
 
-## 4. Show 'Low Stock' shoe.<a name="four"></a>
+### 4. Show 'Low Stock' shoe.<a name="four"></a>
 This menu option will show shoe with lowest stock.
 
 Output:
@@ -118,7 +118,7 @@ _______________________________________________________________
 ```
 
 
-## 5. Calculate total value / shoe.<a name="five"></a>
+### 5. Calculate total value / shoe.<a name="five"></a>
 This menu option will calculate and show total stock value for each shoe.
 
 Output:
@@ -132,7 +132,7 @@ ________________________________________________________________________________
 ```
 
 
-## 6. Search for shoe.<a name="six"></a>
+### 6. Search for shoe.<a name="six"></a>
 This menu option will search for shoe provided the code.
 
 Output:
@@ -147,5 +147,5 @@ _______________________________________________________________
 ```
 
 
-## 0. Exit.<a name="zero"></a>
+### 0. Exit.<a name="zero"></a>
 Exits the script.
