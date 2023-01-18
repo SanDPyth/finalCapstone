@@ -12,7 +12,7 @@
 ### * Description. <a name="desc"></a>
 
 Built during HyperionDev Software Engineering Bootcamp.
-This script will read "inventory.txt" and based on your choice
+This script will read "inventory.txt" and based on your choice\
 will show tables, return lowest stock ... see [How to Use](#use) for more
 
 ---
