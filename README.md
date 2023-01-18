@@ -3,13 +3,13 @@
 
 ### Table of Contents
 
-   1. [Description](#desc)
-   2. [How To Install](#inst)
-   3. [How To Use](#use)
+   * [Description](#desc)
+   * [How To Install](#inst)
+   * [How To Use](#use)
 
 ---
 
-### 1. Description. <a name="desc"></a>
+### * Description. <a name="desc"></a>
 
 Built during HyperionDev Software Engineering Bootcamp.
 This script will read "inventory.txt" and based on your choice
@@ -17,7 +17,7 @@ will show tables, return lowest stock ... see [How to Use](#use) for more
 
 ---
 
-### 2. How to install. <a name="inst"></a>
+### * How to install. <a name="inst"></a>
 
 Click on "<> Code" button in this repository.\
 Click "Download zip"
@@ -26,7 +26,7 @@ And you are done!
 
 ---
 
-### 3. How to Use. <a name="use"></a>
+### * How to Use. <a name="use"></a>
 
 Run "inventory.py". You should see the following: 
 
