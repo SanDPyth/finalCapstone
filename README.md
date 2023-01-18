@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-   1.[Description](#desc)
-   2.[How To Install](#inst)
-   3.[How To Use](#use)
+   1.[Description](#desc)\
+   2.[How To Install](#inst)\
+   3.[How To Use](#use)\
 
 ---
 
@@ -56,13 +56,13 @@ Remeber not to delete the 1st row from "inventory.txt" file.\
 
 MENU: 
 
-  1. [Update Shoes from 'inventory.txt'.\](#one)
-  2. [View Shoes in database.\](#two)
-  3. [Show 'Low Stock' shoe.\](#three)
-  4. [Put 'Sale' on highest qty shoe.\](#four)
-  5. [Calculate total value / shoe.\](#five)
-  6. [Search for shoe.\](#six)
-  0. [Exit.\](#zero)
+  1.[Update Shoes from 'inventory.txt'.](#one)\
+  2.[View Shoes in database.](#two)\
+  3.[Show 'Low Stock' shoe.](#three)\
+  4.[Put 'Sale' on highest qty shoe.](#four)\
+  5.[Calculate total value / shoe.](#five)\
+  6.[Search for shoe.](#six)\
+  0.[Exit.](#zero)\
 
 
 ## 1. Update Shoes from 'inventory.txt'.<a name="one"></a>
