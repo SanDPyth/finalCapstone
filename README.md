@@ -20,8 +20,8 @@ will show tables, return lowest stock etc... see [How to Use](#use) for features
 ### * How to install. <a name="inst"></a>
 
 Click on "<> Code" button in this repository.\
-Click "Download zip"
-Unzip Files
+Click "Download zip"\
+Unzip Files\
 And you are done!
 
 ---
