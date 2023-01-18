@@ -5,7 +5,7 @@
 
    1.[Description](#desc)\
    2.[How To Install](#inst)\
-   3.[How To Use](#use)\
+   3.[How To Use](#use)
 
 ---
 
@@ -13,7 +13,7 @@
 
 Built during HyperionDev Software Engineering Bootcamp.
 This script will read "inventory.txt" and based on your choice
-will show tables, return lowest stock ... see <a name="use">How to Use</a> for more
+will show tables, return lowest stock ... see [How to Use](#use) for more
 
 ---
 
@@ -48,11 +48,11 @@ Shoe Inventory Managemnet System:
 ```
 
 In order to add shoes to database edit the "inventory.txt" file.\
-Add data in order below:\
+Add data in order below:
 
 Country,Code,Product,Cost,Quantity
 
-Remeber not to delete the 1st row from "inventory.txt" file.\
+Remeber not to delete the 1st row from "inventory.txt" file.
 
 MENU: 
 
@@ -62,13 +62,13 @@ MENU:
   4.[Put 'Sale' on highest qty shoe.](#four)\
   5.[Calculate total value / shoe.](#five)\
   6.[Search for shoe.](#six)\
-  0.[Exit.](#zero)\
+  0.[Exit.](#zero)
 
 
 ## 1. Update Shoes from 'inventory.txt'.<a name="one"></a>
 This menu option will update any changes made to "inventory.txt".\
 This function is run o start-up.\ 
-After any changes made to "inventory.txt" this must be run.\
+After any changes made to "inventory.txt" this must be run.
 
 Output:
 ```
@@ -77,7 +77,7 @@ Output:
 
 
 ## 2. View Shoes in database.<a name="two"></a>
-This menu option will show list of all shoes in a table.\
+This menu option will show list of all shoes in a table.
 
 Output:
 ```
@@ -93,7 +93,7 @@ _______________________________________________________________
 
 
 ## 3. Show 'Low Stock' shoe.<a name="three"></a>
-This menu option will show shoe with lowest stock.\
+This menu option will show shoe with lowest stock.
 
 Output:
 ```
@@ -106,7 +106,7 @@ _______________________________________________________________
 
 
 ## 4. Show 'Low Stock' shoe.<a name="four"></a>
-This menu option will show shoe with lowest stock.\
+This menu option will show shoe with lowest stock.
 
 Output:
 ```
@@ -119,7 +119,7 @@ _______________________________________________________________
 
 
 ## 5. Calculate total value / shoe.<a name="five"></a>
-This menu option will calculate and show total stock value for each shoe.\
+This menu option will calculate and show total stock value for each shoe.
 
 Output:
 ```
@@ -133,7 +133,7 @@ ________________________________________________________________________________
 
 
 ## 6. Search for shoe.<a name="six"></a>
-This menu option will search for shoe provided the code.\
+This menu option will search for shoe provided the code.
 
 Output:
 ```
