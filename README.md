@@ -55,7 +55,7 @@ Country,Code,Product,Cost,Quantity
 Remeber not to delete the 1st row from "inventory.txt" file.
 
 ---
-MENU: 
+### MENU: 
 
   [1. Update Shoes from 'inventory.txt'.](#one)\
   [2. View Shoes in database.](#two)\
@@ -64,6 +64,7 @@ MENU:
   [5. Calculate total value / shoe.](#five)\
   [6. Search for shoe.](#six)\
   [0. Exit.](#zero)
+  
 ---
 ### 1. Update Shoes from 'inventory.txt'.<a name="one"></a>
 This menu option will update any changes made to "inventory.txt".\
