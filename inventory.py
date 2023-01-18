@@ -6,6 +6,7 @@ LENGHTS :tuple = ()
 #========The beginning of the class==========
 class Shoe:
 
+
     def __init__(self, country: str, code: str, product: str, cost: int, quantity: int):
         '''Initialiser for shoe class'''
         self.country = country
@@ -37,6 +38,7 @@ class Shoe:
         return f"| {self.product}".ljust(prod_lenght) + f"| {self.code}".ljust(code_lenght) +\
             f"| {self.quantity}".ljust(qty_lenght) + f"| {self.cost}".ljust(cost_lenght) +\
                 f"| {self.country}".ljust(country_lenght) + " |"
+                
 
 #=============Shoe list===========
 shoe_list = []
