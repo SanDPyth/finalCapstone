@@ -3,8 +3,8 @@
 
 ### Table of Contents
 
-   1. [Description](#desc)\
-   2. [How To Install](#inst)\
+   1. [Description](#desc)
+   2. [How To Install](#inst)
    3. [How To Use](#use)
 
 ---
