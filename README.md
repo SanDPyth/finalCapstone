@@ -13,7 +13,7 @@
 
 Built during HyperionDev Software Engineering Bootcamp.
 This script will read "inventory.txt" and based on your choice\
-will show tables, return lowest stock ... see [How to Use](#use) for more
+will show tables, return lowest stock etc... see [How to Use](#use) for features.
 
 ---
 
