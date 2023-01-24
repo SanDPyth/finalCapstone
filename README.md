@@ -22,13 +22,14 @@ will show tables, return lowest stock etc... see [How to Use](#use) for features
 Click on "<> Code" button in this repository.\
 Click "Download zip"\
 Unzip Files\
+You will have to install Python to be able to run "inventory.py".\
 And you are done!
 
 ---
 
 ### * How to Use. <a name="use"></a>
 
-Run "inventory.py". You should see the following: 
+After installing python Run "inventory.py". You should see the following: 
 
 ```
 >>> Starting Shoe Inventory Managemnet System <<<
