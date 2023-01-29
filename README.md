@@ -107,16 +107,17 @@ _______________________________________________________________
 ```
 
 ---
-### 4. Show 'Low Stock' shoe.<a name="four"></a>
-This menu option will show shoe with lowest stock.
+### 4. Put 'Sale' on highest qty shoe.<a name="four"></a>
+This menu option will show shoe with highest qty stock.
+And put in on sale.
 
 Output:
 ```
---------------------------[LOW ON STOCK]--------------------------
+-----------------------------[ON SALE]----------------------------
 ----------------------------[SKU95000]----------------------------
 _______________________________________________________________
 | Product             | Code     | Qty | Cost | Country       |
-| Air Mag             | SKU95000 | 2   | 2000 | Vietnam       |
+| Cortez              | SKU29077 | 60  | 970  | United States |
 ```
 
 ---
